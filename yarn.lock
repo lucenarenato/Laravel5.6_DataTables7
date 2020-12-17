@@ -1331,9 +1331,9 @@ datatables.net-buttons@>=1.0.3, datatables.net-buttons@^1.2.1:
     datatables.net ">=1.10.9"
     jquery ">=1.7"
 
-datatables.net@>=1.10.9, datatables.net@^1.10.12:
-  version "1.10.13"
-  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.13.tgz#6ac584ba6fc2dff1195e5c66d3e3b051a4b52b96"
+datatables.net@>=1.10.9, datatables.net@^1.10.22:
+  version "1.10.22"
+  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.22.tgz#975d4ffb1eb40dec5fb772eaf93796ec1a948b55"
   dependencies:
     jquery ">=1.7"
 
