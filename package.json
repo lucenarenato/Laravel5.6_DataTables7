@@ -19,6 +19,6 @@
     "vue": "^2.0.1"
   },
   "dependencies": {
-    "moment": "^2.17.1"
+    "moment": "^2.29.2"
   }
 }
